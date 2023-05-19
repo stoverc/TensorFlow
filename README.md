@@ -9,6 +9,6 @@ This repo is to help me get started learning about and utilizing [TensorFlow](ht
 </ul>
 <h3>21 Apr 2023</h3>
 <ul>
-    <li>Initial commit of <code>TensorFlowBeginner</code>.</li>
+    <li>Initial commit of <code>TensorFlowBeginner</code>, as borrowed from the <a href = "https://www.tensorflow.org/tutorials/quickstart/beginner">Quickstart for Beginners</a>.</li>
 </ul>
 </details>
